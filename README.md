@@ -1,47 +1,50 @@
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
-<h3 align="center">💻 Machine Learning | 🤖 Generative AI | 📊 Data Analyst</h3>
+<h3 align="center">🚀 AI Engineer | 📊 Data Analyst | 🤖 ML & Generative AI Developer</h3>
 
 ---
 
-- 🔭 I’m currently working on **Real-Life ML Projects**
-- 🌱 I’m learning **Time Series, LSTM, NLP, Streamlit**
-- 🧠 I build **AI models using Python, TensorFlow & scikit-learn**
-- 👨‍💻 All of my projects are available at [My GitHub Portfolio](https://github.com/MuhammadSulemanAi6275)
-- 📫 How to reach me: **m.suleman6275@gmail.com**
+🌟 **Welcome to my GitHub!** I build real-world AI solutions using machine learning, deep learning, and Streamlit apps.  
+I love solving real problems and automating intelligent decisions. Let’s connect and create the future with AI!
 
 ---
 
-### 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+### 🔧 Skills & Tools
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=for-the-badge)
+![Scikit Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?logo=matplotlib&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 
 ---
 
 ### 📈 GitHub Stats
-![Suleman's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadSulemanAi6275&show_icons=true&theme=dark)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSulemanAi6275&show_icons=true&theme=dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSulemanAi6275&layout=compact&theme=dark" height="150"/>
+</p>
 
 ---
 
-### ✨ Top Projects
-- [🏥 Medical Store Predictor](https://github.com/MuhammadSulemanAi6275/medical-store-predictor)
-- [🏠 House Price Model](https://github.com/MuhammadSulemanAi6275/House_price_prediction)
-- [💼 Salary Predictor](https://github.com/MuhammadSulemanAi6275/salary-prediction-app-By-Suleman)
+### 🚀 Live Projects
 
-## Hi there 👋
+| Project | Description | Link |
+|--------|-------------|------|
+| 💊 **Medical Store Predictor** | Demand + Stock Forecast + Expiry Alert using LSTM & Streamlit | [View Repo](https://github.com/MuhammadSulemanAi6275/medical-store-predictor) |
+| 🏠 **House Price Prediction** | ML Model for predicting house prices using regression | [View Repo](https://github.com/MuhammadSulemanAi6275/House_price_prediction) |
+| 💼 **Salary Prediction App** | Predicts salaries based on experience & skill level | [View Repo](https://github.com/MuhammadSulemanAi6275/salary-prediction-app-By-Suleman) |
+| 🚗 **EV Range Predictor** | Streamlit app to predict electric vehicle range | [View Repo](https://github.com/MuhammadSulemanAi6275/ev-range-predictor) |
+| 🎬 **Popular Movie Prediction** | Predicts whether a movie will be a hit or not | [View Repo](https://github.com/MuhammadSulemanAi6275/popular-movie-predictor) |
 
-<!--
-**MuhammadSulemanAi6275/MuhammadSulemanAi6275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📫 Contact Me
+- Email: **m.suleman6275@gmail.com**
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammadsuleman6275/)
+- GitHub: [@MuhammadSulemanAi6275](https://github.com/MuhammadSulemanAi6275)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔥 Let’s build something amazing with AI!

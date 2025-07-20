@@ -41,7 +41,7 @@ I love solving real problems and automating intelligent decisions. Let’s conne
 ---
 
 ### 📫 Contact Me
-- Email: **m.suleman6275@gmail.com**
+- Email: **datamaster6275@gmail.com**
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/muhammadsuleman6275/)
 - GitHub: [@MuhammadSulemanAi6275](https://github.com/MuhammadSulemanAi6275)
 

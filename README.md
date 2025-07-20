@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MuhammadSulemanAi6275/MuhammadSulemanAi6275/main/banner.png" alt="Muhammad Suleman - AI Developer Banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Suleman</h1>
 <h3 align="center">🚀 AI Engineer | 📊 Data Analyst | 🤖 ML & Generative AI Developer</h3>
 
